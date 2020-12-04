@@ -25,5 +25,5 @@ dhoni tweet_id_14
 
 sachin 2 \
 sehwag 2 \
-dhoni 4 \
+dhoni 4
 
